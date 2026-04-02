@@ -53,6 +53,40 @@ Weight Distribution: Medical and Groceries often fall into the "Heavy" category,
 - **Operational Health:** Real-time tracking of delivery status.
 - **Financial Summary:** Total cost analysis by month and year (2024–2025).
 
+## 📸 Screenshots
+
+## EXCEL
+
+### PIVOT TABLES
+### 1. Pivot Table 1 [From District]
+  <img width="1920" height="1080" alt="Excel - Pivot Table 1" src="https://github.com/user-attachments/assets/42444b1b-dfc8-4558-b03e-4ed905abe755" />
+
+### 2. Pivot Table 2 [To District]
+  <img width="1920" height="1080" alt="Excel - Pivot Table 2" src="https://github.com/user-attachments/assets/cabb9867-34be-4429-967e-48d53170385d" />
+
+### 3. Pivot Table 3 [Parcel Types & Delivery Status]
+  <img width="1920" height="1080" alt="Excel - Pivot Table 3" src="https://github.com/user-attachments/assets/50b4d187-613b-49f2-ae7b-f1f1546e9735" />
+
+### DASHBOARDS
+### 1. Dashboard 1 [From District]
+  <img width="1920" height="1080" alt="Excel - Dashboard 1" src="https://github.com/user-attachments/assets/6395667c-f36c-47e4-a683-573c38ada970" />
+
+### 2. Dashboard 2 [To District]
+  <img width="1920" height="1080" alt="Excel - Dashboard 2" src="https://github.com/user-attachments/assets/0c314e63-99c5-4cef-8945-2129bf65414d" />
+
+### 3. Dashboard 3 [Parcel Types & Delivery Status]
+  <img width="1920" height="1080" alt="Excel - Dashboard 3" src="https://github.com/user-attachments/assets/85049d00-d4b1-4a82-9d04-23fb91de108a" />
+
+## TABLEAU
+
+### DASHBOARDS
+### 1. Dashboard 1 [Overall Analysis]
+  <img width="1920" height="1080" alt="Tableau - Dashboard 1" src="https://github.com/user-attachments/assets/51ca81d0-d60d-4165-9d4a-2966b617ebb7" />
+
+### 2. Dashboard 2 [Delivery Status Analysis]
+  <img width="1920" height="1080" alt="Tableau - Dashboard 2" src="https://github.com/user-attachments/assets/828cdc51-951d-4dc1-8e73-6c7f4cffb714" />
+
+
 ## 📂 Repository Contents
 - `Tamil_Nadu_Parcel_Service_Data.csv`: The core logistics dataset.
 - `Parcel_Service_Analysis.twbx`: Interactive Tableau Workbook.
