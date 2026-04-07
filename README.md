@@ -1,4 +1,4 @@
-# Tamil Nadu Parcel Service Analysis (Excel-Tableau)
+# Tamil Nadu Parcel Service Analysis (Excel & Tableau)
 Logistics &amp; Supply Chain analysis of 250,000+ parcel records across Tamil Nadu. Utilizing Excel and Tableau, this project tracks delivery performance, shipping costs, and regional logistics hubs. Features include delivery status monitoring (Cancelled/Pending/Returned/In Transit/Delivered), and district-wise revenue distribution.
 
 ## 1. Project Overview
@@ -94,5 +94,5 @@ Weight Distribution: Medical and Groceries often fall into the "Heavy" category,
 
 ## 📂 How to View
 Download the Tableau file (.twbx) from this repository.
-Open it using Tableau Public Desktop (free tool) 
+Open it using Tableau Public (or) Tableau Desktop (free tool) 
 [https://public.tableau.com/views/ParcelServiceAnalysis_17751145485040/OverallAnalysisDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link]
